@@ -1,0 +1,23 @@
+========================================
+       YOUR PERSONALIZED STUDY PLAN
+========================================
+Student Name: shahmeer
+AI Learning Goal: ython learning
+Study Days per Week: 1
+Daily Study Hours: 1
+Total Weekly Study Hours: 1
+
+YOUR WEEKLY SCHEDULE
+----------------------------------------
+Study Day 1: Learn the basic concepts related to your goal.
+  Study time: 1 hour(s)
+
+STUDY TIPS
+- Set a small goal for every study session.
+- Practice coding instead of only reading.
+- Take short breaks when needed.
+- Review your progress every week.
+- Adjust your plan as you improve.
+
+Good luck with your AI learning journey!
+========================================
